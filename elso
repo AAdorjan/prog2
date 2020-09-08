@@ -100,3 +100,17 @@ print(c1.__str__())
                             
 print(M)                    
                                                     
+class Mystring:
+    def __init__(self):
+        self.str=''
+    def getstr(self):
+        self.str=input("Gimme szoveg:")
+    def prints(self):
+        print(self.str.upper())
+
+str1="programming"
+print(str1.upper())
+
+str2=Mystring()
+str2.getstr()
+str2.prints()
