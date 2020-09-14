@@ -1,0 +1,6 @@
+(angol)
+
+operátor túlterhelés pythonban: 
+
+https://www.geeksforgeeks.org/operator-overloading-in-python/
+https://www.youtube.com/watch?v=CcTzTuIsoFk

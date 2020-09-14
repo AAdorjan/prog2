@@ -1,0 +1,5 @@
+anna;15;no
+daniel;16;ferfi
+diana;15;no
+bela;22;ferfi
+krisztina;56;ferfi
